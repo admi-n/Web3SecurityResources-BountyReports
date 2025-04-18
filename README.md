@@ -1,9 +1,13 @@
 # Web3-Security-Resources---Bounty-Report
-一些web3审计报告
+web3审计报告资源：
 
 
 
 https://reports.zellic.io/
+
+
+
+https://github.com/slowmist/Knowledge-Base/blob/master/open-report/README.md
 
 
 
@@ -12,6 +16,24 @@ https://cantina.xyz/portfolio
 
 
 https://code4rena.com/report
+
+
+
+https://blog.openzeppelin.com/#reports
+
+
+
+https://github.com/spearbit/portfolio
+
+
+
+https://audits.sherlock.xyz/contests
+
+​	--https://github.com/orgs/sherlock-audit/repositories
+
+
+
+https://github.com/abdk-consulting/audits
 
 
 
@@ -35,9 +57,15 @@ https://reports.immunefi.com/
 
 
 
-https://audits.sherlock.xyz/contests
+https://github.com/pessimistic-io/audits
 
-​	--https://github.com/orgs/sherlock-audit/repositories
+
+
+https://omniscia.io/reports.html
+
+
+
+https://www.chainsecurity.com/smart-contract-audit-reports
 
 
 
