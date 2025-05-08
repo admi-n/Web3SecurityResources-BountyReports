@@ -76,4 +76,10 @@ https://github.com/sayan011/Immunefi-bug-bounty-writeups-list
 https://hexens.io/audit-reports
 
 
+
+
 https://www.halborn.com/audits
+
+
+
+https://github.com/Egis-Security/audits
